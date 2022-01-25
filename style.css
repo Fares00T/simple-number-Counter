@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  margin: 100px;
+  padding: 200px;
+  background-color: burlywood;
+}
+
+#number {
+  color: white;
+  font-size: 60px;
+  font-weight: bolder;
+}
+
+.cont {
+  position: absolute;
+  color: white;
+  top: 150px;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+#btns {
+  position: absolute;
+  top: 500px;
+}
